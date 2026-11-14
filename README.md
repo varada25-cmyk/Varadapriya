@@ -1,4 +1,4 @@
-# Varadapriya
+# V Varadapriya
 # Project: Modularity-Based Community Detection in the Karate Club Network
 # Course: DSC212 – Graph Theory Module
 ## Introduction
